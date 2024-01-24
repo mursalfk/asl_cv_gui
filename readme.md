@@ -12,7 +12,7 @@ The American Sign Language Detection GUI is an interactive application for real-
 - ASL reference guide for quick learning
 - Customizable and extendable for educational or practical purposes
 
-## [Demo Video](https://drive.google.com/file/d/1MZvZceLw-vzuSm8t-1DvHP-eNPaClOMU/view?usp=sharing)
+## [Demo Video](https://drive.google.com/file/d/1SEWTpOxznsQecAT4z_0jFDl2B3RzFeVh/view?usp=sharing)
 
 ## ASL Reference Guide
 
@@ -35,13 +35,15 @@ To run the ASL Detection GUI on your local machine, follow these steps:
 git clone https://github.com/YOUR_USERNAME/your-repository.git
 ```
 
-2. Install the required dependencies:
+2. [Download Model Here](https://drive.google.com/file/d/1MZvZceLw-vzuSm8t-1DvHP-eNPaClOMU/view?usp=sharing)
+
+3. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run the application:
+4. Run the application:
 
 ```bash
 python asl_gui.py
