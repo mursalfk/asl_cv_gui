@@ -23,7 +23,7 @@ The American Sign Language Detection GUI is an interactive application for real-
 - **[Waddah Alhajar](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE_URL_HERE)**  
 - **[Daniel Fu](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE_URL_HERE)**
 - **[Srinjan Ghosh](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE_URL_HERE)**
-- **[Mursal Furqan Kumbhar](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE_URL_HERE)**
+- **[Mursal Furqan Kumbhar](https://www.linkedin.com/in/mursalfurqan/)**
 
 ## Getting Started
 
@@ -32,7 +32,7 @@ To run the ASL Detection GUI on your local machine, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/your-repository.git
+git clone https://github.com/mursalfk/asl_cv_gui.git
 ```
 
 2. [Download Model Here](https://drive.google.com/file/d/1MZvZceLw-vzuSm8t-1DvHP-eNPaClOMU/view?usp=sharing)
