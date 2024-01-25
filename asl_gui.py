@@ -266,9 +266,9 @@ class HandTrackingApp:
         credits_label.pack(pady=5)
 
         group_members = [
-            "Waddah Alhajar (Mat. 2047419)", 
+            "Waddah Alhajar (Mat. 2049298)", 
             "Daniel Fu (Mat. 2121690)", 
-            "Srinjan Ghosh (Mat. 2047419)",
+            "Srinjan Ghosh (Mat. 2053796)",
             "Mursal Furqan Kumbhar (Mat. 2047419)", 
             ]
 
